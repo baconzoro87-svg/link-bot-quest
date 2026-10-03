@@ -1,0 +1,6 @@
+master.key
+linked_accounts.db
+*.db
+.env
+__pycache__/
+*.pyc
